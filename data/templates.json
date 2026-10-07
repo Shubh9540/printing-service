@@ -1,0 +1,3211 @@
+{
+  "common": {
+    "Footer": {
+      "logoAlt": "PrintVista Logo",
+      "brandTitle": "PrintVista",
+      "copyrightText": "© 2026 PrintVista. All Rights Reserved.Powered by Lestow",
+      "description": "We provide high-quality printing solutions for businesses, events and personal needs. From design to delivery, we bring your ideas to life with perfection.",
+      "hoursTitle": "Working Hours",
+      "hoursDays": "Mon - Sat:",
+      "hours": "9:00 AM - 7:00 PM\nSunday: Closed",
+      "socialLinks": [
+        {
+          "id": "1",
+          "icon": "FaFacebookF",
+          "url": "https://facebook.com"
+        },
+        {
+          "id": "2",
+          "icon": "FaTwitter",
+          "url": "https://twitter.com"
+        },
+        {
+          "id": "3",
+          "icon": "FaYoutube",
+          "url": "https://youtube.com"
+        },
+        {
+          "id": "4",
+          "icon": "FaInstagram",
+          "url": "https://instagram.com"
+        },
+        {
+          "id": "5",
+          "icon": "FaLinkedinIn",
+          "url": "https://linkedin.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "ql1",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "ql2",
+          "label": "About Us",
+          "url": "/about"
+        },
+        {
+          "id": "ql3",
+          "label": "Our Services",
+          "url": "/services"
+        },
+        {
+          "id": "ql4",
+          "label": "Blog",
+          "url": "/blog"
+        },
+        {
+          "id": "ql5",
+          "label": "Contact Us",
+          "url": "/contact"
+        },
+        {
+          "id": "ql6",
+          "label": "Enquiry Now",
+          "url": "/enquiry"
+        }
+      ],
+      "servicesLinks": [
+        {
+          "id": "f-s-1",
+          "label": "T-Shirt Printing",
+          "url": "/services/tshirt-printing"
+        },
+        {
+          "id": "f-s-2",
+          "label": "Business Cards",
+          "url": "/services/business-cards"
+        },
+        {
+          "id": "f-s-3",
+          "label": "Flyers & Brochures",
+          "url": "/services/flyers-and-brochures"
+        },
+        {
+          "id": "f-s-4",
+          "label": "Business Card Design",
+          "url": "/services/business-cards"
+        },
+        {
+          "id": "f-s-5",
+          "label": "Poster Printing",
+          "url": "/services/poster-printing"
+        },
+        {
+          "id": "f-s-6",
+          "label": "Custom Packaging",
+          "url": "/services/custom-packaging"
+        }
+      ],
+      "contactInfo": {
+        "email": "info@xyz.com",
+        "phone": "+1 000000000",
+        "address": "123 Main St, New York, NY, USA"
+      },
+      "instagram": [
+        "/service/1.jpg",
+        "/service/2.jpg",
+        "/service/3.jpg",
+        "/service/4.jpg",
+        "/service/5.jpg",
+        "/service/6.jpg"
+      ],
+      "quickLinksTitle": "Quick Links",
+      "servicesTitle": "Our Services",
+      "contactTitle": "Contact Us",
+      "features": [
+        {
+          "id": "f-1",
+          "icon": "FaTruck",
+          "title": "Fast Delivery",
+          "color": "#0d65ff"
+        },
+        {
+          "id": "f-2",
+          "icon": "FaGem",
+          "title": "Premium Quality",
+          "color": "#ff1b6b"
+        },
+        {
+          "id": "f-3",
+          "icon": "FaCog",
+          "title": "Custom Designs",
+          "color": "#ffd500"
+        },
+        {
+          "id": "f-4",
+          "icon": "FaHeadset",
+          "title": "Dedicated Support",
+          "color": "#48c946"
+        }
+      ],
+      "galleryTitle": "Gallery",
+      "gallery": [
+        {
+          "id": "g-1",
+          "image": "/gallery/1.webp"
+        },
+        {
+          "id": "g-2",
+          "image": "/gallery/2.webp"
+        },
+        {
+          "id": "g-3",
+          "image": "/gallery/3.webp"
+        },
+        {
+          "id": "g-4",
+          "image": "/gallery/4.webp"
+        },
+        {
+          "id": "g-5",
+          "image": "/gallery/5.webp"
+        },
+        {
+          "id": "g-6",
+          "image": "/gallery/6.webp"
+        }
+      ],
+      "bottomLinks": [
+        {
+          "id": "b-1",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "b-2",
+          "label": "About Us",
+          "url": "/about"
+        },
+        {
+          "id": "b-3",
+          "label": "Our Services",
+          "url": "/services"
+        },
+        {
+          "id": "b-4",
+          "label": "Contact Us",
+          "url": "/contact"
+        }
+      ]
+    },
+    "aboutBreadcrumb": {
+      "title": "About Us",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "About Us"
+        }
+      ]
+    },
+    "servicesBreadcrumb": {
+      "title": "Our Services",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Services"
+        }
+      ]
+    },
+    "contactBreadcrumb": {
+      "title": "Contact Us",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Contact Us"
+        }
+      ]
+    },
+    "enquiryBreadcrumb": {
+      "title": "Enquiry Now",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Enquiry Now"
+        }
+      ]
+    },
+    "galleryBreadcrumb": {
+      "title": "Our Gallery",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Gallery"
+        }
+      ],
+      "bgImage": "/main logo/breadcrumb.webp"
+    }
+  },
+  "categories": {
+    "PrintingService": {
+      "sections": {
+        "Header": {
+          "variants": {
+            "PrintingServiceHeader1": {
+              "logo": "/main logo/logo.webp",
+              "logoAlt": "PrintVista Logo",
+              "navLinksLeft": [
+                {
+                  "id": "nav-home",
+                  "label": "HOME",
+                  "url": "/"
+                },
+                {
+                  "id": "nav-about",
+                  "label": "ABOUT US",
+                  "url": "/about"
+                },
+                {
+                  "id": "nav-services",
+                  "label": "OUR SERVICES",
+                  "url": "#",
+                  "subLinks": [
+                    {
+                      "label": "Service",
+                      "url": "/services",
+                      "id": "sub-service-1"
+                    },
+                    {
+                      "label": "Service Detail",
+                      "url": "/services/tshirt-printing",
+                      "id": "sub-service-2"
+                    }
+                  ]
+                },
+                {
+                  "id": "nav-gallery",
+                  "label": "GALLERY",
+                  "url": "/gallery"
+                },
+                {
+                  "id": "nav-faqs",
+                  "label": "FAQS",
+                  "url": "/faq"
+                },
+                {
+                  "id": "nav-contact",
+                  "label": "CONTACT US",
+                  "url": "/contact"
+                }
+              ],
+              "contactInfoRight": [
+                {
+                  "id": "contact-phone",
+                  "icon": "FaPhoneAlt",
+                  "label": "24/7 Support",
+                  "value": "+1000000000"
+                }
+              ],
+              "contactButton": {
+                "text": "Get a Quote",
+                "url": "/quote",
+                "icon": "FaRegCalendarAlt"
+              }
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "PrintingServiceHero1": {
+              "subtitle": "Digital Printing Service",
+              "title1": "Create Amazing",
+              "title2": "Print & Design",
+              "title3": "Printing",
+              "description": "High-quality printing solutions for businesses, events and personal needs. From design to delivery, we bring your ideas to life with perfection.",
+              "image1": "/banner/banner1.webp",
+              "image2": "/banner/banner2.webp",
+              "image3": "/banner/banner3.webp",
+              "button": {
+                "text": "Contact With Us",
+                "url": "/contact"
+              }
+            }
+          }
+        },
+        "Marquee": {
+          "variants": {
+            "PrintingServiceMarquee1": {
+              "text1": "CUSTOM PRINT DESIGN",
+              "text2": "CUSTOM PRINT DESIGN"
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "PrintingServiceAboutUs1": {
+              "subtitle": "ABOUT US",
+              "title1": "Your Trusted Partner in",
+              "title2": "Custom Printing Solutions",
+              "description": "We are a creative printing company dedicated to turning your ideas into high-quality products. From custom t-shirts and mugs to business cards and branded merchandise, we help individuals, businesses, and brands stand out with professional and vibrant prints.",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality Prints"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaCog",
+                  "title": "Modern Printing Technology"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaUsers",
+                  "title": "Dedicated Support Team"
+                }
+              ],
+              "button": {
+                "text": "Learn More ->",
+                "url": "/about"
+              },
+              "imageMain": "/about/worker.webp",
+              "imageSmall1": "/about/tshirt.webp",
+              "imageSmall2": "/about/mug.webp",
+              "imageSmall3": "/about/business_cards.webp",
+              "stats": [
+                {
+                  "id": "s1",
+                  "icon": "FaUsers",
+                  "number": "50K+",
+                  "label": "Happy Clients"
+                },
+                {
+                  "id": "s2",
+                  "icon": "FaLayerGroup",
+                  "number": "100+",
+                  "label": "Product Range"
+                },
+                {
+                  "id": "s3",
+                  "icon": "FaAward",
+                  "number": "10+",
+                  "label": "Years Experience"
+                },
+                {
+                  "id": "s4",
+                  "icon": "FaTruck",
+                  "number": "24/7",
+                  "label": "Support"
+                }
+              ]
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "PrintingServiceServices1": {
+              "subtitle": "OUR SERVICES",
+              "title1": "Wide Range of",
+              "title2": "Printing Services",
+              "description": "We offer complete printing solutions for businesses, events and personal needs.",
+              "button": {
+                "text": "View All Services ->",
+                "url": "/services"
+              },
+              "featuredBlock": {
+                "subtitle": "Our Main Services",
+                "title1": "Premier One-Stop",
+                "title2": "Custom Print Solutions",
+                "description": "PrintVista, a solutions-driven printing company with a history of success connecting brands with consumers. We deliver high-quality printing products for businesses, events and personal needs.",
+                "image": "/service/07_usb_drives.webp"
+              },
+              "services": [
+                {
+                  "id": "s1",
+                  "title": "Greeting Cards",
+                  "description": "",
+                  "image": "/service/01_greeting_cards.webp",
+                  "icon": "01",
+                  "url": "/services/greeting-cards"
+                },
+                {
+                  "id": "s2",
+                  "title": "T-Shirt Printing",
+                  "description": "",
+                  "image": "/service/02_tshirt_printing.webp",
+                  "icon": "02",
+                  "url": "/services/tshirt-printing"
+                },
+                {
+                  "id": "s3",
+                  "title": "Stickers And Labels",
+                  "description": "",
+                  "image": "/service/03_stickers_labels.webp",
+                  "icon": "03",
+                  "url": "/services/stickers-labels"
+                },
+                {
+                  "id": "s4",
+                  "title": "Business Card Design",
+                  "description": "",
+                  "image": "/service/04_business_cards.webp",
+                  "icon": "04",
+                  "url": "/services/business-cards"
+                },
+                {
+                  "id": "s5",
+                  "title": "Stationary Design",
+                  "description": "",
+                  "image": "/service/05_stationery_design.webp",
+                  "icon": "05",
+                  "url": "/services/stationary-design"
+                },
+                {
+                  "id": "s6",
+                  "title": "Banner Card Design",
+                  "description": "",
+                  "image": "/service/06_banner_design.webp",
+                  "icon": "06",
+                  "url": "/services/banner-design"
+                },
+                {
+                  "id": "flyers-and-brochures",
+                  "title": "Flyers & Brochures",
+                  "description": "High quality flyers & brochures services for your business.",
+                  "image": "/service/07_usb_drives.webp",
+                  "icon": "07",
+                  "url": "/services/flyers-and-brochures"
+                },
+                {
+                  "id": "poster-printing",
+                  "title": "Poster Printing",
+                  "description": "High quality poster printing services for your business.",
+                  "image": "/service/01_greeting_cards.webp",
+                  "icon": "08",
+                  "url": "/services/poster-printing"
+                },
+                {
+                  "id": "invitation-cards",
+                  "title": "Invitation Cards",
+                  "description": "High quality invitation cards services for your business.",
+                  "image": "/service/02_tshirt_printing.webp",
+                  "icon": "09",
+                  "url": "/services/invitation-cards"
+                },
+                {
+                  "id": "calendar-printing",
+                  "title": "Calendar Printing",
+                  "description": "High quality calendar printing services for your business.",
+                  "image": "/service/03_stickers_labels.webp",
+                  "icon": "10",
+                  "url": "/services/calendar-printing"
+                },
+                {
+                  "id": "custom-packaging",
+                  "title": "Custom Packaging",
+                  "description": "High quality custom packaging services for your business.",
+                  "image": "/service/04_business_cards.webp",
+                  "icon": "11",
+                  "url": "/services/custom-packaging"
+                },
+                {
+                  "id": "large-format-printing",
+                  "title": "Large Format Printing",
+                  "description": "High quality large format printing services for your business.",
+                  "image": "/service/05_stationery_design.webp",
+                  "icon": "12",
+                  "url": "/services/large-format-printing"
+                }
+              ]
+            }
+          }
+        },
+        "ServiceDetail": {
+          "variants": {
+            "greeting-cards": {
+              "id": "greeting-cards",
+              "subtitle": "Greeting Cards Services",
+              "title1": "Professional",
+              "title2": "Greeting Cards",
+              "description": "We offer high-quality greeting cards solutions tailored to your needs.",
+              "imageMain": "/service/01_greeting_cards.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Greeting Cards?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best greeting cards. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/01_greeting_cards.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Greeting Cards?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "tshirt-printing": {
+              "id": "tshirt-printing",
+              "subtitle": "T-Shirt Printing Services",
+              "title1": "Professional",
+              "title2": "T-Shirt Printing",
+              "description": "We offer high-quality t-shirt printing solutions tailored to your needs.",
+              "imageMain": "/service/02_tshirt_printing.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our T-Shirt Printing?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best t-shirt printing. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/02_tshirt_printing.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need T-Shirt Printing?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "stickers-labels": {
+              "id": "stickers-labels",
+              "subtitle": "Stickers And Labels Services",
+              "title1": "Professional",
+              "title2": "Stickers And Labels",
+              "description": "We offer high-quality stickers and labels solutions tailored to your needs.",
+              "imageMain": "/service/03_stickers_labels.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Stickers And Labels?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best stickers and labels. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/03_stickers_labels.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Stickers And Labels?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "business-cards": {
+              "id": "business-cards",
+              "subtitle": "Business Card Design Services",
+              "title1": "Professional",
+              "title2": "Business Card Design",
+              "description": "We offer high-quality business card design solutions tailored to your needs.",
+              "imageMain": "/service/04_business_cards.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Business Card Design?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best business card design. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/04_business_cards.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Business Card Design?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "stationary-design": {
+              "id": "stationary-design",
+              "subtitle": "Stationary Design Services",
+              "title1": "Professional",
+              "title2": "Stationary Design",
+              "description": "We offer high-quality stationary design solutions tailored to your needs.",
+              "imageMain": "/service/05_stationery_design.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Stationary Design?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best stationary design. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/05_stationery_design.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Stationary Design?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "banner-design": {
+              "id": "banner-design",
+              "subtitle": "Banner Card Design Services",
+              "title1": "Professional",
+              "title2": "Banner Card Design",
+              "description": "We offer high-quality banner card design solutions tailored to your needs.",
+              "imageMain": "/service/06_banner_design.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Banner Card Design?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best banner card design. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/06_banner_design.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Banner Card Design?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "flyers-and-brochures": {
+              "id": "flyers-and-brochures",
+              "subtitle": "Flyers & Brochures Services",
+              "title1": "Professional",
+              "title2": "Flyers & Brochures",
+              "description": "We offer high-quality flyers & brochures solutions tailored to your needs.",
+              "imageMain": "/service/07_usb_drives.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Flyers & Brochures?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best flyers & brochures. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/07_usb_drives.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Flyers & Brochures?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "poster-printing": {
+              "id": "poster-printing",
+              "subtitle": "Poster Printing Services",
+              "title1": "Professional",
+              "title2": "Poster Printing",
+              "description": "We offer high-quality poster printing solutions tailored to your needs.",
+              "imageMain": "/service/01_greeting_cards.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Poster Printing?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best poster printing. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/01_greeting_cards.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Poster Printing?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "invitation-cards": {
+              "id": "invitation-cards",
+              "subtitle": "Invitation Cards Services",
+              "title1": "Professional",
+              "title2": "Invitation Cards",
+              "description": "We offer high-quality invitation cards solutions tailored to your needs.",
+              "imageMain": "/service/02_tshirt_printing.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Invitation Cards?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best invitation cards. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/02_tshirt_printing.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Invitation Cards?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "calendar-printing": {
+              "id": "calendar-printing",
+              "subtitle": "Calendar Printing Services",
+              "title1": "Professional",
+              "title2": "Calendar Printing",
+              "description": "We offer high-quality calendar printing solutions tailored to your needs.",
+              "imageMain": "/service/03_stickers_labels.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Calendar Printing?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best calendar printing. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/03_stickers_labels.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Calendar Printing?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "custom-packaging": {
+              "id": "custom-packaging",
+              "subtitle": "Custom Packaging Services",
+              "title1": "Professional",
+              "title2": "Custom Packaging",
+              "description": "We offer high-quality custom packaging solutions tailored to your needs.",
+              "imageMain": "/service/04_business_cards.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Custom Packaging?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best custom packaging. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/04_business_cards.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Custom Packaging?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            },
+            "large-format-printing": {
+              "id": "large-format-printing",
+              "subtitle": "Large Format Printing Services",
+              "title1": "Professional",
+              "title2": "Large Format Printing",
+              "description": "We offer high-quality large format printing solutions tailored to your needs.",
+              "imageMain": "/service/05_stationery_design.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaGem",
+                  "title": "Premium Quality"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaPencilRuler",
+                  "title": "Custom Design"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaRegClock",
+                  "title": "Fast Delivery"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable"
+                }
+              ],
+              "overviewTitle": "Why Choose Our Large Format Printing?",
+              "overviewText": [
+                "We combine creativity and technology to deliver the best large format printing. Our team of experts works closely with you to ensure that every detail is perfect, from the initial design to the final product.",
+                "With years of experience in the printing industry, we guarantee exceptional results that will make your brand stand out. We use only the highest quality materials and state-of-the-art equipment to bring your vision to life."
+              ],
+              "overviewImage": "/service/05_stationery_design.webp",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Consultation",
+                  "description": "We discuss your requirements and provide a custom quote."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design",
+                  "description": "Our designers create a mockup for your approval."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Printing",
+                  "description": "Once approved, we proceed with high-quality printing."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Delivery",
+                  "description": "Your order is carefully packaged and delivered to you."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What is the minimum order quantity?",
+                  "answer": "Our minimum order quantity varies depending on the specific product. Please contact us for details."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the printing take?",
+                  "answer": "Standard turnaround time is 3-5 business days. Rush orders are available upon request."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you offer custom design services?",
+                  "answer": "Yes, our team of professional designers can help bring your ideas to life."
+                },
+                {
+                  "id": "q4",
+                  "question": "What file formats do you accept?",
+                  "answer": "We prefer high-resolution PDF, AI, or PSD files. Please ensure all fonts are outlined and images are at least 300dpi."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Need Large Format Printing?",
+                  "description": "Get a free quote today.",
+                  "buttonText": "Get a Quote",
+                  "servicesList": [
+                    "Greeting Cards",
+                    "T-Shirt Printing",
+                    "Stickers And Labels",
+                    "Business Card Design",
+                    "Stationary Design",
+                    "Banner Card Design"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "greeting-cards",
+                      "label": "Greeting Cards",
+                      "url": "/services/greeting-cards"
+                    },
+                    {
+                      "id": "tshirt-printing",
+                      "label": "T-Shirt Printing",
+                      "url": "/services/tshirt-printing"
+                    },
+                    {
+                      "id": "stickers-labels",
+                      "label": "Stickers And Labels",
+                      "url": "/services/stickers-labels"
+                    },
+                    {
+                      "id": "business-cards",
+                      "label": "Business Card Design",
+                      "url": "/services/business-cards"
+                    },
+                    {
+                      "id": "stationary-design",
+                      "label": "Stationary Design",
+                      "url": "/services/stationary-design"
+                    },
+                    {
+                      "id": "banner-design",
+                      "label": "Banner Card Design",
+                      "url": "/services/banner-design"
+                    },
+                    {
+                      "id": "flyers-and-brochures",
+                      "label": "Flyers & Brochures",
+                      "url": "/services/flyers-and-brochures"
+                    },
+                    {
+                      "id": "poster-printing",
+                      "label": "Poster Printing",
+                      "url": "/services/poster-printing"
+                    },
+                    {
+                      "id": "invitation-cards",
+                      "label": "Invitation Cards",
+                      "url": "/services/invitation-cards"
+                    },
+                    {
+                      "id": "calendar-printing",
+                      "label": "Calendar Printing",
+                      "url": "/services/calendar-printing"
+                    },
+                    {
+                      "id": "custom-packaging",
+                      "label": "Custom Packaging",
+                      "url": "/services/custom-packaging"
+                    },
+                    {
+                      "id": "large-format-printing",
+                      "label": "Large Format Printing",
+                      "url": "/services/large-format-printing"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "Process": {
+          "variants": {
+            "PrintingServiceProcess1": {
+              "subtitle": "",
+              "title1": "How We ",
+              "title2": "Do It?",
+              "bgImage": "/other/process.jpg",
+              "steps": [
+                {
+                  "id": "1",
+                  "icon": "FiFileText",
+                  "number": "01",
+                  "title": "Share Your Requirements",
+                  "description": "Tell us what you need, choose products, sizes and designs as per your brand."
+                },
+                {
+                  "id": "2",
+                  "icon": "MdDesignServices",
+                  "number": "02",
+                  "title": "Design & Approval",
+                  "description": "Our team creates a design or works with your artwork and gets your approval."
+                },
+                {
+                  "id": "3",
+                  "icon": "FiPrinter",
+                  "number": "03",
+                  "title": "Printing Process",
+                  "description": "We use advanced printing technology to ensure high quality and consistency."
+                },
+                {
+                  "id": "4",
+                  "icon": "FiPackage",
+                  "number": "04",
+                  "title": "Final Delivery",
+                  "description": "Your printed products are carefully packed and delivered on time, ready to use."
+                }
+              ],
+              "description": "From your idea to the final print, we make the process simple, fast and hassle-free."
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "PrintingServiceTestimonials1": {
+              "subtitle": "TESTIMONIALS",
+              "title1": "Our Latest",
+              "title2": "Client Feedback",
+              "description": "We take pride in delivering exceptional solutions and building long-term relationships with our clients. Here's what they have to say about working with us.",
+              "testimonials": [
+                {
+                  "id": "1",
+                  "name": "Amit Sharma",
+                  "location": "Business Owner, Noida",
+                  "quote": "Extremely happy with the website developed for our business. The team understood our requirements very well and delivered exactly what we needed. The support after launch has also been excellent. Highly recommended!",
+                  "rating": 5,
+                  "avatar": "/team/1.png"
+                },
+                {
+                  "id": "2",
+                  "name": "Rohan Gupta",
+                  "location": "Marketing Manager, Delhi",
+                  "quote": "The team designed our company website professionally with a clean and modern look. Communication was smooth and the project was completed on time. We have already seen good response from our customers.",
+                  "rating": 5,
+                  "avatar": "/team/2.png"
+                },
+                {
+                  "id": "3",
+                  "name": "Rahul Verma",
+                  "location": "Founder, Gurugram",
+                  "quote": "Great experience working with this team! They delivered a user-friendly and responsive website for our organization. The design, speed and functionality are exactly as we wanted. Their support team is also very helpful.",
+                  "rating": 4,
+                  "avatar": "/team/3.png"
+                },
+                {
+                  "id": "4",
+                  "name": "Karan Singh",
+                  "location": "CEO, Mumbai",
+                  "quote": "A truly fantastic experience from start to finish. They built a highly customized solution for us that exceeded all expectations. We are seeing a huge increase in conversions thanks to their outstanding work.",
+                  "rating": 5,
+                  "avatar": "/team/4.png"
+                },
+                {
+                  "id": "5",
+                  "name": "Vikram Malhotra",
+                  "location": "Director, Pune",
+                  "quote": "The developers are highly skilled and professional. They quickly resolved all our technical issues and delivered a robust product. We will definitely be coming back for our future software needs.",
+                  "rating": 5,
+                  "avatar": "/team/5.png"
+                },
+                {
+                  "id": "6",
+                  "name": "Anjali Desai",
+                  "location": "Product Manager, Bangalore",
+                  "quote": "Incredible attention to detail and superb project management. The final output is gorgeous, fast, and works perfectly on all devices. Thank you for making our vision a reality!",
+                  "rating": 5,
+                  "avatar": "/team/6.png"
+                }
+              ],
+              "button": {
+                "text": "Let's Talk — Send A Message",
+                "url": "/contact"
+              },
+              "tag": "Amazing Service"
+            }
+          }
+        },
+        "whyChooseUs": {
+          "variants": {
+            "PrintingServiceWhyChooseUs1": {
+              "subtitle": "WHY CHOOSE US",
+              "title1": "Your Trusted",
+              "title2": "Our Priority",
+              "description": "We combine quality, creativity and technology to deliver exceptional printing solutions that help your business make a lasting impression.",
+              "features": [
+                {
+                  "id": "1",
+                  "title": "High Print Quality",
+                  "description": "Sharp, vibrant and long-lasting prints with premium materials.",
+                  "icon": "FaGem"
+                },
+                {
+                  "id": "2",
+                  "title": "Accurate & Precise",
+                  "description": "Pixel-perfect printing with attention to every detail.",
+                  "icon": "FaCrosshairs"
+                },
+                {
+                  "id": "3",
+                  "title": "On-Time Delivery",
+                  "description": "We ensure fast production and timely delivery, every time.",
+                  "icon": "FaRegClock"
+                },
+                {
+                  "id": "4",
+                  "title": "Affordable Pricing",
+                  "description": "Best quality printing solutions at competitive prices.",
+                  "icon": "FaWallet"
+                },
+                {
+                  "id": "5",
+                  "title": "Custom Printing Solutions",
+                  "description": "Fully customizable designs to match your brand and needs.",
+                  "icon": "FaPencilRuler"
+                },
+                {
+                  "id": "6",
+                  "title": "Dedicated Support",
+                  "description": "Our team is always here to assist you at every step.",
+                  "icon": "FaHeadset"
+                }
+              ],
+              "button": {
+                "text": "Get Started ->",
+                "url": "/contact"
+              },
+              "imageMain": "/portfolio/app/1.webp",
+              "badgeTitle": "100+",
+              "badgeText": "Projects Delivered"
+            }
+          }
+        },
+        "contact": {
+          "variants": {
+            "PrintingServiceContact1": {
+              "subtitle": "Contact Us",
+              "title1": "Get In Touch",
+              "title2": "With Us",
+              "description": "Have a question, need a quote, or want to schedule a printing-service service? Our team is here to help. Reach out to us through the form or using the contact details below.",
+              "contactInfo": {
+                "phoneTitle": "Call Us",
+                "phone": "+1 000000000",
+                "emailTitle": "Email Us",
+                "email": "info@xyz.com",
+                "addressTitle": "Our Location",
+                "address": "123 Main St, New York, NY, USA",
+                "hoursTitle": "Working Hours",
+                "hoursLine1": "Mon - Sat: 9am - 7pm",
+                "hoursLine2": "Sunday: CLOSED"
+              },
+              "form": {
+                "title": "Send Us a Message",
+                "description": "Fill out the form below and our team will get back to you shortly.",
+                "buttonText": "Send Message",
+                "servicesList": [
+                  "Residential Cleaning",
+                  "Commercial Cleaning",
+                  "Post-Construction Cleaning",
+                  "Window Cleaning",
+                  "Carpet Cleaning",
+                  "Other"
+                ],
+                "subtitle": "Get In Touch",
+                "title1": "Send us a",
+                "title2": "Message"
+              },
+              "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.2528000654!2d-74.1444874457788!3d40.69766374865766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+              "infoBoxes": [
+                {
+                  "icon": "FaClock",
+                  "title": "Working Hours",
+                  "desc1": "Mon - Sat: 9:00 AM - 7:00 PM",
+                  "desc2": "Sunday: Closed"
+                },
+                {
+                  "icon": "FaHeadset",
+                  "title": "Need Urgent Help?",
+                  "desc1": "Call us anytime for",
+                  "desc2": "emergency printing-service service."
+                },
+                {
+                  "icon": "FaFileAlt",
+                  "title": "Request a Quote",
+                  "desc1": "Get a free, no-obligation",
+                  "desc2": "estimate for your printing-service needs."
+                }
+              ],
+              "image": "/about/contact.webp",
+              "contactCards": {
+                "phoneTitle": "Call Us",
+                "phone": "+1 000000000",
+                "phoneDesc": "Mon-Fri 9am-6pm",
+                "emailTitle": "Email Us",
+                "email": "info@xyz.com",
+                "emailDesc": "Online Support",
+                "addressTitle": "Visit Us",
+                "address": "123 Main St, New York, NY, USA"
+              },
+              "sidebar": {
+                "image": "/about/building.webp",
+                "title": "Why Contact Us?",
+                "reasons": [
+                  {
+                    "id": "r1",
+                    "title": "Quick Response",
+                    "description": "We reply within 24 hours",
+                    "icon": "FaHeadset",
+                    "colorClass": "bg-[#ff3366]"
+                  },
+                  {
+                    "id": "r2",
+                    "title": "Get a Free Quote",
+                    "description": "Best pricing for your requirements",
+                    "icon": "FaFileAlt",
+                    "colorClass": "bg-[#0d65ff]"
+                  },
+                  {
+                    "id": "r3",
+                    "title": "Expert Support",
+                    "description": "Our team is here to help you",
+                    "icon": "FaCog",
+                    "colorClass": "bg-[#ffb000]"
+                  },
+                  {
+                    "id": "r4",
+                    "title": "Custom Solutions",
+                    "description": "Tailored printing solutions for your business",
+                    "icon": "FaStar",
+                    "colorClass": "bg-[#00c978]"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "enquiry": {
+          "variants": {
+            "PrintingServiceEnquiry1": {
+              "subtitle": "GET A QUOTE",
+              "title1": "Get a Quote for",
+              "title2": "Our Cleaning Services",
+              "description": "Tell us about your cleaning requirements and we'll provide you with a customized quote. It's quick, easy and completely free.",
+              "features": [
+                {
+                  "title": "Tailored to Your Needs",
+                  "description": "Get a quote based on your specific cleaning requirements."
+                },
+                {
+                  "title": "Quick & Easy",
+                  "description": "Fill out the form in just a few minutes."
+                },
+                {
+                  "title": "No Obligation",
+                  "description": "Receive a personalized quote with no commitment."
+                }
+              ],
+              "form": {
+                "title1": "Request a",
+                "title2": "Quote",
+                "description": "Fill out the form below and our team will get back to you shortly with a customized quote.",
+                "buttonText": "Submit Request ->",
+                "servicesList": [
+                  "Residential Cleaning",
+                  "Commercial Cleaning",
+                  "Post-Construction Cleaning",
+                  "Window Cleaning",
+                  "Carpet Cleaning",
+                  "Other"
+                ]
+              }
+            }
+          }
+        },
+        "Faq": {
+          "variants": {
+            "PrintingServiceFaq1": {
+              "subtitle": "FAQ & ANSWERS",
+              "title1": "Get Your Every Question",
+              "title2": "and Answers",
+              "description": "Find quick answers to common questions about our printing services, order process, design, delivery and more.",
+              "image": "/banner/ban1.jpg",
+              "faqs": [
+                {
+                  "id": "faq-1",
+                  "question": "How can I place an order?",
+                  "answer": "You can place an order through our website by uploading your design, selecting product options and completing the checkout process. You can also contact our team for assistance."
+                },
+                {
+                  "id": "faq-2",
+                  "question": "What file types do you accept?",
+                  "answer": "We accept high-resolution PDF, AI, PSD, EPS, and JPEG files. For best print quality, please ensure your files are in CMYK color mode and have a minimum resolution of 300 DPI."
+                },
+                {
+                  "id": "faq-3",
+                  "question": "What is the turnaround time?",
+                  "answer": "Standard turnaround time is 3-5 business days depending on the product. We also offer expedited shipping and rush production options if you need your order sooner."
+                },
+                {
+                  "id": "faq-4",
+                  "question": "Do you offer design support?",
+                  "answer": "Yes, our team of professional designers can help you create or adjust your artwork before printing. Please contact us for a custom design quote based on your requirements."
+                },
+                {
+                  "id": "faq-5",
+                  "question": "How To Backup My Website?",
+                  "answer": "Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales. In maximus ultrices euismod. Vivamus porta justo ex."
+                },
+                {
+                  "id": "faq-6",
+                  "question": "Can I Upgrade My Plan Later?",
+                  "answer": "Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales. In maximus ultrices euismod. Vivamus porta justo ex."
+                },
+                {
+                  "id": "faq-7",
+                  "question": "Do You Provide SSL Certificate?",
+                  "answer": "Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales. In maximus ultrices euismod. Vivamus porta justo ex."
+                },
+                {
+                  "id": "faq-8",
+                  "question": "Is There Any Hidden Charges?",
+                  "answer": "Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales. In maximus ultrices euismod. Vivamus porta justo ex."
+                },
+                {
+                  "id": "faq-9",
+                  "question": "How Can I Contact Support?",
+                  "answer": "Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales. In maximus ultrices euismod. Vivamus porta justo ex."
+                }
+              ],
+              "image1": "/about/faq_back.webp",
+              "image2": "/about/faq_front.webp"
+            }
+          }
+        },
+        "Quote": {
+          "variants": {
+            "PrintingServiceQuote1": {
+              "subtitle": "GET A QUOTE",
+              "title1": "Get a Quote for",
+              "title2": "Your Project",
+              "description": "Share your project requirements with us and our team will get back to you with the best solution and a customized quote as per your needs.",
+              "features": [
+                {
+                  "id": "qf1",
+                  "icon": "FaRegCommentDots",
+                  "title": "Quick Response",
+                  "description": "We reply to all enquiries within 24 hours."
+                },
+                {
+                  "id": "qf2",
+                  "icon": "FaRegFileAlt",
+                  "title": "Customized Solutions",
+                  "description": "Tailored to your business requirements."
+                },
+                {
+                  "id": "qf3",
+                  "icon": "FaShieldAlt",
+                  "title": "Transparent Pricing",
+                  "description": "No hidden charges, clear and detailed quotes."
+                },
+                {
+                  "id": "qf4",
+                  "icon": "FaHeadset",
+                  "title": "Dedicated Support",
+                  "description": "Our team is always here to help you."
+                }
+              ],
+              "image": "/about/about1.jpg",
+              "floatingBox": {
+                "icon": "FaChartBar",
+                "text1": "Let's Build",
+                "text2": "Your Next Project"
+              },
+              "form": {
+                "title": "Request a ",
+                "titleHighlight": "Free Quote",
+                "description": "Fill out the form below and our experts will get back to you soon with a customized quotation.",
+                "budgets": [
+                  "₹ Under 25,000",
+                  "₹ 25,000 - 50,000",
+                  "₹ 50,000 - 1,00,000",
+                  "₹ Above 1,00,000"
+                ],
+                "buttonText": "Get a Quote"
+              },
+              "sidebar": {
+                "whyTitle1": "Why Get a Quote",
+                "whyTitle2": "from PrintVista?",
+                "whyDescription": "We provide the best printing solutions with transparent pricing and premium quality.",
+                "features": [
+                  {
+                    "id": "f1",
+                    "title": "Customized Pricing",
+                    "description": "Tailored to your specific requirements.",
+                    "icon": "FaFileAlt",
+                    "colorClass": "bg-[#e82a7a]"
+                  },
+                  {
+                    "id": "f2",
+                    "title": "No Hidden Charges",
+                    "description": "100% transparent pricing.",
+                    "icon": "FaRupeeSign",
+                    "colorClass": "bg-[#0ea5e9]"
+                  },
+                  {
+                    "id": "f3",
+                    "title": "Quick Response",
+                    "description": "Get a quote within 24–48 hours.",
+                    "icon": "FaBolt",
+                    "colorClass": "bg-[#eab308]"
+                  },
+                  {
+                    "id": "f4",
+                    "title": "Expert Support",
+                    "description": "Our team helps you choose the right solution.",
+                    "icon": "FaUsers",
+                    "colorClass": "bg-[#0ea5e9]"
+                  }
+                ],
+                "contactTitle": "Contact Us",
+                "contactDescription": "Reach out for a quote.",
+                "contactInfo": {
+                  "phoneTitle": "Call Us",
+                  "phone": "+1 000000000",
+                  "emailTitle": "Email",
+                  "email": "info@xyz.com",
+                  "locationTitle": "Address",
+                  "location": "123 Main St, New York, NY, USA"
+                }
+              }
+            }
+          }
+        },
+        "Gallery": {
+          "variants": {
+            "PrintingServiceGallery1": {
+              "title1": "Our",
+              "title2": "Portfolio",
+              "description": "Explore some of our finest printing works across various categories.",
+              "categories": [
+                "All",
+                "Business Cards",
+                "Brochures",
+                "T-Shirts",
+                "Mugs",
+                "Banners"
+              ],
+              "images": [
+                {
+                  "id": "1",
+                  "category": "Brochures",
+                  "alt": "Gallery Image 1",
+                  "image": "/gallery/1.webp"
+                },
+                {
+                  "id": "2",
+                  "category": "T-Shirts",
+                  "alt": "Gallery Image 2",
+                  "image": "/gallery/2.webp"
+                },
+                {
+                  "id": "3",
+                  "category": "Mugs",
+                  "alt": "Gallery Image 3",
+                  "image": "/gallery/3.webp"
+                },
+                {
+                  "id": "4",
+                  "category": "Banners",
+                  "alt": "Gallery Image 4",
+                  "image": "/gallery/4.webp"
+                },
+                {
+                  "id": "5",
+                  "category": "Business Cards",
+                  "alt": "Gallery Image 5",
+                  "image": "/gallery/5.webp"
+                },
+                {
+                  "id": "6",
+                  "category": "Brochures",
+                  "alt": "Gallery Image 6",
+                  "image": "/gallery/6.webp"
+                },
+                {
+                  "id": "7",
+                  "category": "T-Shirts",
+                  "alt": "Gallery Image 7",
+                  "image": "/gallery/7.webp"
+                },
+                {
+                  "id": "8",
+                  "category": "Mugs",
+                  "alt": "Gallery Image 8",
+                  "image": "/gallery/8.webp"
+                },
+                {
+                  "id": "9",
+                  "category": "Banners",
+                  "alt": "Gallery Image 9",
+                  "image": "/gallery/9.webp"
+                },
+                {
+                  "id": "10",
+                  "category": "Business Cards",
+                  "alt": "Gallery Image 10",
+                  "image": "/gallery/10.webp"
+                },
+                {
+                  "id": "11",
+                  "category": "Brochures",
+                  "alt": "Gallery Image 11",
+                  "image": "/gallery/11.webp"
+                },
+                {
+                  "id": "12",
+                  "category": "T-Shirts",
+                  "alt": "Gallery Image 12",
+                  "image": "/gallery/12.webp"
+                },
+                {
+                  "id": "13",
+                  "category": "Mugs",
+                  "alt": "Gallery Image 13",
+                  "image": "/gallery/13.webp"
+                },
+                {
+                  "id": "14",
+                  "category": "Banners",
+                  "alt": "Gallery Image 14",
+                  "image": "/gallery/14.webp"
+                },
+                {
+                  "id": "15",
+                  "category": "Business Cards",
+                  "alt": "Gallery Image 15",
+                  "image": "/gallery/15.webp"
+                }
+              ],
+              "subtitle": "OUR WORK"
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Topbar": "PrintingServiceTopBar1",
+          "Header": "PrintingServiceHeader1",
+          "Footer": "PrintingServiceFooter1"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "HeroSection",
+                "component": "PrintingServiceHero1"
+              },
+              {
+                "key": "AboutUs",
+                "component": "PrintingServiceAboutUs1"
+              },
+              {
+                "key": "Services",
+                "component": "PrintingServiceServices1"
+              },
+              {
+                "key": "Testimonials",
+                "component": "PrintingServiceTestimonials1"
+              }
+            ]
+          },
+          "about": {
+            "components": [
+              {
+                "key": "AboutUs",
+                "component": "PrintingServiceAboutUs1"
+              },
+              {
+                "key": "WhyChooseUs",
+                "component": "PrintingServiceWhyChooseUs1"
+              }
+            ]
+          },
+          "services": {
+            "components": [
+              {
+                "key": "Services",
+                "component": "PrintingServiceServices1"
+              },
+              {
+                "key": "WhyChooseUs",
+                "component": "PrintingServiceWhyChooseUs1"
+              }
+            ]
+          },
+          "gallery": {
+            "components": [
+              {
+                "key": "Gallery",
+                "component": "PrintingServiceGallery1"
+              },
+              {
+                "key": "VideoGallery",
+                "component": "PrintingServiceVideoGallery1"
+              }
+            ]
+          },
+          "faq": {
+            "components": [
+              {
+                "key": "Faq",
+                "component": "PrintingServiceFaq1"
+              }
+            ]
+          },
+          "contact": {
+            "components": [
+              {
+                "key": "Contact",
+                "component": "PrintingServiceContact1"
+              }
+            ]
+          },
+          "quote": {
+            "components": [
+              {
+                "key": "Quote",
+                "component": "PrintingServiceQuote1"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "pages": {
+    "about": {
+      "components": [
+        "TopBar",
+        "Header",
+        "Breadcrumb",
+        "AboutUs",
+        "Cta",
+        "Footer"
+      ]
+    },
+    "quote": {
+      "components": [
+        "TopBar",
+        "Header",
+        "Breadcrumb",
+        "Quote",
+        "Cta",
+        "Footer"
+      ]
+    }
+  }
+}

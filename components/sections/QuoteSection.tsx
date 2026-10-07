@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
 import { QuoteData } from '@/types/templates.types';
 import {
   FaUser,
@@ -31,6 +31,14 @@ const renderIcon = (iconName: string) => {
 };
 
 export const QuoteSection = ({ data }: { data?: QuoteData }) => {
+  const [selectedFiles, setSelectedFiles] = useState<File[]>([]);
+
+  const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (e.target.files) {
+      setSelectedFiles(Array.from(e.target.files));
+    }
+  };
+
   if (!data) return null;
 
   return (
@@ -148,7 +156,7 @@ export const QuoteSection = ({ data }: { data?: QuoteData }) => {
                 <div className="flex-1 w-full">
                   <span className="hidden sm:block text-[13px] font-bold text-[#051024] mb-2">Attach Files (Optional)</span>
                   <label className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 border border-dashed border-gray-300 hover:border-gray-400 transition-colors rounded-lg p-3 bg-white w-full cursor-pointer relative overflow-hidden">
-                    <input type="file" className="absolute inset-0 w-full h-full opacity-0 cursor-pointer z-20" multiple />
+                    <input type="file" className="absolute inset-0 w-full h-full opacity-0 cursor-pointer z-20" multiple onChange={handleFileChange} />
                     <div className="flex items-center gap-3 relative z-10">
                        <div className="w-10 h-10 rounded-full bg-blue-50 flex items-center justify-center text-blue-500 shrink-0 text-lg">
                          <FaPaperclip />
@@ -162,6 +170,36 @@ export const QuoteSection = ({ data }: { data?: QuoteData }) => {
                       Choose Files
                     </div>
                   </label>
+
+                  {/* Display selected files */}
+                  {selectedFiles.length > 0 && (
+                    <div className="mt-3 flex flex-col gap-2 relative z-10">
+                      {selectedFiles.map((file, index) => (
+                        <div key={index} className="flex items-center justify-between gap-2 bg-white border border-gray-200 rounded-md p-2 shadow-sm">
+                          <div className="flex items-center gap-2 overflow-hidden">
+                            <FaRegFileAlt className="text-gray-400 shrink-0" />
+                            <span className="text-[12px] font-medium text-gray-700 truncate">{file.name}</span>
+                          </div>
+                          <div className="flex items-center gap-3 shrink-0">
+                            <span className="text-[11px] text-gray-400">{(file.size / 1024 / 1024).toFixed(2)} MB</span>
+                            <button
+                              type="button"
+                              onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                const newFiles = [...selectedFiles];
+                                newFiles.splice(index, 1);
+                                setSelectedFiles(newFiles);
+                              }}
+                              className="text-red-400 hover:text-red-600 font-bold text-[14px]"
+                            >
+                              &times;
+                            </button>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  )}
                 </div>
               </div>
 

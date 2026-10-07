@@ -34,7 +34,7 @@ export const AboutUsSection = ({ data, hideButton = false }: { data?: AboutUsDat
 
           {/* Floating Image 1 (Top Left) */}
           {data.imageSmall1 && (
-            <div className="absolute top-[-5%] left-[10%] w-[32%] rounded-[24px] border-[8px] border-white shadow-xl z-20 bg-[#cde2ff] overflow-hidden">
+            <div className="absolute top-[-12%] left-[-2%] w-[32%] rounded-[24px] border-[8px] border-white shadow-xl z-20 bg-[#cde2ff] overflow-hidden">
               <img src={data.imageSmall1} alt="T-Shirt" className="w-full h-full object-cover mix-blend-multiply" />
             </div>
           )}
